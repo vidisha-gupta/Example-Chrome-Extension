@@ -1,0 +1,11 @@
+{
+  "name": "Random Number Generator",
+  "description": "Generate a random number",
+  "version": "1.0",
+  "manifest_version": 2,
+  "browser_action": {
+    "default_popup": "index.html",
+    "default_title": "Generate"
+  },
+  "permissions": ["storage"]
+}
